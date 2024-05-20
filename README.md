@@ -16,11 +16,17 @@ Antes de começar, você vai precisar ter instalado na sua máquina as seguintes
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ```bash
-# Clone este repositório
-$ git clone <https://github.com/tgmarinho/nlw1>
+No terminal clone o projeto:
+$ git clone https://github.com/Alice-Lira/Calculadora-alimentos.git
 
-# Acesse a pasta do projeto no terminal/cmd
-$ cd nlw1
+Entre na pasta do projeto:
+$ cd Calculadora-alimentos
+
+Instale as dependências:
+$ npm install
+
+Execute a aplicação:
+$ npm run dev
 ```
 ### Status do projeto 
 ✅ Concluído
