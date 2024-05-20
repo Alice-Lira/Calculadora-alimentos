@@ -9,6 +9,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Node.js](https://nodejs.org/en/)
 - [Vue.js](https://vuejs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
+- [git](https://git-scm.com/)
   
 ### Abrir e rodar o projeto
 Antes de começar, você vai precisar ter instalado na sua máquina as seguintes ferramentas:
