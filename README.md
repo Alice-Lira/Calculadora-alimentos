@@ -17,10 +17,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 No terminal clone o projeto:
-$ git clone https://github.com/Alice-Lira/Calculadora-alimentos.git
+$ git clone https://github.com/Alice-Lira/calculadora-alimentos.git
 
 Entre na pasta do projeto:
-$ cd Calculadora-alimentos
+$ cd calculadora-alimentos
 
 Instale as dependências:
 $ npm install
