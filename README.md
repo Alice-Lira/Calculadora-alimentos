@@ -10,7 +10,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Vue.js](https://vuejs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
   
-### Instalação
+### Abrir e rodar o projeto
 Antes de começar, você vai precisar ter instalado na sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com/) e [Node.js](https://nodejs.org/en). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
